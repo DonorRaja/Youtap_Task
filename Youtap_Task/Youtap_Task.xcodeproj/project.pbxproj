@@ -21,8 +21,8 @@
 		9376AE38280FCAA900D27EC7 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376AE36280FCAA900D27EC7 /* Helper.swift */; };
 		9376AE3A280FCAC000D27EC7 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376AE39280FCAC000D27EC7 /* UserModel.swift */; };
 		9376AE3B280FCAC000D27EC7 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376AE39280FCAC000D27EC7 /* UserModel.swift */; };
-		9376AE41280FCB3D00D27EC7 /* UserApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376AE40280FCB3D00D27EC7 /* UserApi.swift */; };
-		9376AE42280FCB3D00D27EC7 /* UserApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376AE40280FCB3D00D27EC7 /* UserApi.swift */; };
+		9376AE41280FCB3D00D27EC7 /* UserAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376AE40280FCB3D00D27EC7 /* UserAPI.swift */; };
+		9376AE42280FCB3D00D27EC7 /* UserAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376AE40280FCB3D00D27EC7 /* UserAPI.swift */; };
 		9376AE45280FCB8F00D27EC7 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376AE44280FCB8F00D27EC7 /* Constant.swift */; };
 		9376AE46280FCB8F00D27EC7 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9376AE44280FCB8F00D27EC7 /* Constant.swift */; };
 /* End PBXBuildFile section */
@@ -60,7 +60,7 @@
 		9376AE35280FCA7E00D27EC7 /* Youtap-Task--iOS--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Youtap-Task--iOS--Info.plist"; sourceTree = "<group>"; };
 		9376AE36280FCAA900D27EC7 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		9376AE39280FCAC000D27EC7 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
-		9376AE40280FCB3D00D27EC7 /* UserApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserApi.swift; sourceTree = "<group>"; };
+		9376AE40280FCB3D00D27EC7 /* UserAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserAPI.swift; sourceTree = "<group>"; };
 		9376AE44280FCB8F00D27EC7 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -178,7 +178,7 @@
 		9376AE3E280FCAE600D27EC7 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				9376AE40280FCB3D00D27EC7 /* UserApi.swift */,
+				9376AE40280FCB3D00D27EC7 /* UserAPI.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -358,7 +358,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9376AE23280FCA2600D27EC7 /* ContentView.swift in Sources */,
-				9376AE41280FCB3D00D27EC7 /* UserApi.swift in Sources */,
+				9376AE41280FCB3D00D27EC7 /* UserAPI.swift in Sources */,
 				9376AE21280FCA2600D27EC7 /* Youtap_TaskApp.swift in Sources */,
 				9376AE3A280FCAC000D27EC7 /* UserModel.swift in Sources */,
 				9376AE37280FCAA900D27EC7 /* Helper.swift in Sources */,
@@ -371,7 +371,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9376AE24280FCA2600D27EC7 /* ContentView.swift in Sources */,
-				9376AE42280FCB3D00D27EC7 /* UserApi.swift in Sources */,
+				9376AE42280FCB3D00D27EC7 /* UserAPI.swift in Sources */,
 				9376AE22280FCA2600D27EC7 /* Youtap_TaskApp.swift in Sources */,
 				9376AE3B280FCAC000D27EC7 /* UserModel.swift in Sources */,
 				9376AE38280FCAA900D27EC7 /* Helper.swift in Sources */,
